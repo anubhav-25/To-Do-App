@@ -1,3 +1,5 @@
+# To-Do App
+
 1. Purpose: A todo app is a software application designed to help users organize, manage, and prioritize their tasks and responsibilities.
 
 2. Task Creation: Users can create new tasks or todos within the app. These tasks typically include a title or description of the task, and sometimes additional details like due dates, priorities, or categories.
